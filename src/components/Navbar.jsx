@@ -30,7 +30,7 @@ const Navbar = () => {
               key={index}
               className="relative text-neutral-100 font-medium cursor-pointer group"
             >
-              <a href={item.href}>{item.label}</a>
+              <span>{item.label}</span>
 
               <span className="absolute left-0 -bottom-2 h-[2px] w-0 bg-[#FFC107] transition-all duration-300 group-hover:w-full"></span>
             </li>
