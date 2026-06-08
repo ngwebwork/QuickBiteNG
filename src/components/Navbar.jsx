@@ -56,7 +56,7 @@ const Navbar = () => {
         </div>
 
         {/* Mobile Menu Button */}
-        <div className="flex space-x-2">
+        <div className="md:hidden cursor flex space-x-2">
           <Link
             to="/Cart.jsx"
             className="relative flex items-center gap-2 px-4 py-2 rounded-md border border-[#FFC107] text-[#FFC107] hover:bg-[#FFC107] hover:text-black transition-all duration-300"
