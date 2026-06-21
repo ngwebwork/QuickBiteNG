@@ -3,9 +3,6 @@
 QuickBite NG is a modern food ordering web application designed to provide users with a fast, seamless, and enjoyable online food ordering experience. The platform allows customers to browse available meals, add items to their cart, and place orders through a clean and responsive interface.
 
 ## 🚀 Live Demo
-
-Add your deployed website link here:
-
 ```text
 (https://quick-bite-ng-v6zf.vercel.app/)
 ```
